@@ -1,0 +1,257 @@
+[
+    {
+        "title": "CS modules",
+        "modules": [
+            {
+                "code": "CS1010",
+                "description": "Programming Methodology",
+                "grade": "EXE"
+            },
+            {
+                "code": "CS1231",
+                "description": "Discrete Structures",
+                "grade": "A+"
+            },
+            {
+                "code": "CS2030",
+                "description": "Programming Methodology II",
+                "grade": "A+"
+            },
+            {
+                "code": "CS2040",
+                "description": "Data Structures and Algorithms",
+                "grade": "EXE"
+            },
+            {
+                "code": "CS2100",
+                "description": "Computer Organisation",
+                "grade": "A+"
+            },
+            {
+                "code": "CS2101",
+                "description": "Effective Communication for Computing Professionals",
+                "grade": "S"
+            },
+            {
+                "code": "CS2103T",
+                "description": "Software Engineering",
+                "grade": "A-"
+            },
+            {
+                "code": "CS2105",
+                "description": "Introduction to Computer Networks",
+                "grade": "A-"
+            },
+            {
+                "code": "CS2106",
+                "description": "Introduction to Operating Systems",
+                "grade": "A"
+            },
+            {
+                "code": "CS2107",
+                "description": "Introduction to Information Security",
+                "grade": "A+"
+            },
+            {
+                "code": "CS3203",
+                "description": "Software Engineering Project",
+                "grade": "A"
+            },
+            {
+                "code": "CS3230",
+                "description": "Design and Analysis of Algorithms",
+                "grade": "A+"
+            },
+            {
+                "code": "CS3233",
+                "description": "Competitive Programming",
+                "grade": "A+"
+            },
+            {
+                "code": "CS3233R",
+                "description": "Competitive Programming",
+                "grade": "A+"
+            },
+            {
+                "code": "CS3235",
+                "description": "Computer Security",
+                "grade": "A+"
+            },
+            {
+                "code": "CS3243",
+                "description": "Introduction to Artificial Intelligence",
+                "grade": "A"
+            },
+            {
+                "code": "CS4231",
+                "description": "Parallel and Distributed Algorithms",
+                "grade": "A+"
+            },
+            {
+                "code": "CS5330",
+                "description": "Randomized Algorithms",
+                "grade": "A+"
+            }
+        ]
+    },
+    {
+        "title": "Math modules",
+        "modules": [
+            {
+                "code": "MA1101R",
+                "description": "Linear Algebra I",
+                "grade": "EXE"
+            },
+            {
+                "code": "MA1102R",
+                "description": "Calculus",
+                "grade": "A+"
+            },
+            {
+                "code": "MA2101S",
+                "description": "Linear Algebra II (S)",
+                "grade": "S"
+            },
+            {
+                "code": "MA2104",
+                "description": "Multivariable Calculus",
+                "grade": "A-"
+            },
+            {
+                "code": "MA2108S",
+                "description": "Mathematical Analysis I (S)",
+                "grade": "A"
+            },
+            {
+                "code": "MA2213",
+                "description": "Numerical Analysis I",
+                "grade": "A-"
+            },
+            {
+                "code": "MA2214 ",
+                "description": "Combinatorics and Graphs I",
+                "grade": "A+"
+            },
+            {
+                "code": "MA3110S",
+                "description": "Mathematical Analysis II (S)",
+                "grade": "A+"
+            },
+            {
+                "code": "MA3111",
+                "description": "Complex Analysis I",
+                "grade": "A+"
+            },
+            {
+                "code": "MA3233",
+                "description": "Combinatorics and Graphs II",
+                "grade": "A+"
+            },
+            {
+                "code": "MA3236",
+                "description": "Non-Linear Programming",
+                "grade": "A"
+            },
+            {
+                "code": "MA4207",
+                "description": "Mathematical Logic",
+                "grade": "A-"
+            },
+            {
+                "code": "MA4229",
+                "description": "Approximation Theory",
+                "grade": "A"
+            },
+            {
+                "code": "MA4260",
+                "description": "Stochastic Operations Research",
+                "grade": "A"
+            },
+            {
+                "code": "MA4264",
+                "description": "Game Theory",
+                "grade": "A"
+            },
+            {
+                "code": "MA4270",
+                "description": "Data Modelling and Computation",
+                "grade": "A+"
+            },
+            {
+                "code": "ST2131",
+                "description": "Probability",
+                "grade": "A"
+            },
+            {
+                "code": "ST2132",
+                "description": "Mathematical Statistics",
+                "grade": "A"
+            }
+        ]
+    },
+    {
+        "title": "Other modules",
+        "modules": [
+            {
+                "code": "CP3200",
+                "description": "Internship",
+                "grade": "CS"
+            },
+            {
+                "code": "ES1103",
+                "description": "English for Academic Purposes",
+                "grade": "S"
+            },
+            {
+                "code": "ES2660",
+                "description": "Communicating in the Information Age",
+                "grade": "S"
+            },
+            {
+                "code": "GEQ1000",
+                "description": "Asking Questions",
+                "grade": "CS"
+            },
+            {
+                "code": "GER1000",
+                "description": "Quantitative Reasoning",
+                "grade": "A-"
+            },
+            {
+                "code": "GES1021",
+                "description": "Natural Heritage of Singapore",
+                "grade": "S"
+            },
+            {
+                "code": "GET1004",
+                "description": "Cyber Security",
+                "grade": "S"
+            },
+            {
+                "code": "IS1103",
+                "description": "IS Innovations in Organisations and Society",
+                "grade": "S"
+            },
+            {
+                "code": "LAJ1201",
+                "description": "Japanese 1",
+                "grade": "A-"
+            },
+            {
+                "code": "LAJ2201",
+                "description": "Japanese 2",
+                "grade": "S"
+            },
+            {
+                "code": "LAJ2202",
+                "description": "Japanese 3",
+                "grade": "S"
+            },
+            {
+                "code": "PC1432",
+                "description": "Physics IIE",
+                "grade": "A+"
+            }
+        ]
+    }
+]

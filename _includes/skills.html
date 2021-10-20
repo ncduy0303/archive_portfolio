@@ -1,0 +1,20 @@
+<section id="skills" class="{{include.classname}}">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Skills</h2>
+                <hr class="primary">
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                {% assign list = "C++, Java, Python, OCaml, Git, Javascript, React, Django, Latex" | split: ", " %}
+                {% for skill in list %}
+                <span class="badge btn-primary">{{ skill }}</span>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</section>
