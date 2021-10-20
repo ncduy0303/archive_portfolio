@@ -1,4 +1,4 @@
-f = open('input.txt')
+f = open('raw-achievements.txt')
 year = '123'
 arr = []
 for line in f:
