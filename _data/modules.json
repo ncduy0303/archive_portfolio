@@ -1,0 +1,24 @@
+[
+    {
+        "title": "CS modules",
+        "modules": [
+            {
+                "code": "CS1010S",
+                "description": "Programming Methodology",
+                "grade": "EXE"
+            }
+        ]
+    },
+    {
+        "title": "Math modules",
+        "modules": [
+
+        ]
+    },
+    {
+        "title": "Other modules",
+        "modules": [
+
+        ]
+    }
+]
