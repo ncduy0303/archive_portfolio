@@ -1,16 +1,37 @@
 [
     {
-        "title": "CS modules",
+        "title": "Data Science modules",
+        "modules": [
+            {
+                "code": "DSA1101",
+                "description": "Introduction to Data Science",
+                "grade": ""
+            }
+        ]
+    },
+    {
+        "title": "Computer Science modules",
         "modules": [
             {
                 "code": "CS1010S",
                 "description": "Programming Methodology",
                 "grade": "EXE"
+            },
+            {
+                "code": "CS2040",
+                "description": "Data Structure and Algorithms",
+                "grade": ""
             }
         ]
     },
     {
-        "title": "Math modules",
+        "title": "Maths modules",
+        "modules": [
+
+        ]
+    },
+    {
+        "title": "Stats modules",
         "modules": [
 
         ]
@@ -18,7 +39,21 @@
     {
         "title": "Other modules",
         "modules": [
-
+            {
+                "code": "HSA1000",
+                "description": "Asian Interconnections",
+                "grade": ""
+            },
+            {
+                "code": "HSS1000",
+                "description": "Understanding Social Complexity",
+                "grade": ""
+            },
+            {
+                "code": "RVSS1001",
+                "description": "Imagining Wakanda: Cities for work, life, and play",
+                "grade": ""
+            }
         ]
     }
 ]

@@ -10,12 +10,21 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
-                {% assign list = "C++, Python, PyTorch, fastai, Git, Latex" |
+                {% assign list = "C++, Java, Python, R, HTML, CSS" |
                 split: ", " %} {% for skill in list %}
                 <span class="badge btn-primary">{{ skill }}</span>
                 {% endfor %}
                 <br />
-                {% assign list = "Competitive Programming, Data Science" |
+                {% assign list = "OOP, CLI, SQL, Git, LaTeX" |
+                split: ", " %} {% for skill in list %}
+                <span class="badge btn-secondary">{{ skill }}</span>
+                {% endfor %}
+                {% assign list = "Pytorch, Scikit-learn, Numpy, Pandas, Matplotlib" |
+                split: ", " %} {% for skill in list %}
+                <span class="badge btn-primary">{{ skill }}</span>
+                {% endfor %}
+                <br />
+                {% assign list = "Data Science, Competitive Programming, Teamwork, Problem Solving, Critical Thinking" |
                 split: ", " %} {% for skill in list %}
                 <span class="badge btn-secondary">{{ skill }}</span>
                 {% endfor %}
