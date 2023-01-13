@@ -5,7 +5,7 @@
             {
                 "code": "DSA1101",
                 "description": "Introduction to Data Science",
-                "grade": ""
+                "grade": "A+"
             }
         ]
     },
@@ -18,23 +18,40 @@
                 "grade": "EXE"
             },
             {
+                "code": "CS1231S",
+                "description": "Discrete Structures",
+                "grade": ""
+            },
+            {
+                "code": "CS2030S",
+                "description": "Programming Methodology II",
+                "grade": ""
+            },
+            {
                 "code": "CS2040",
                 "description": "Data Structure and Algorithms",
-                "grade": ""
+                "grade": "A+"
             }
         ]
     },
     {
         "title": "Maths modules",
         "modules": [
-
+            {
+                "code": "MA1521",
+                "description": "Calculus for Computing",
+                "grade": ""
+            },
+            {
+                "code": "MA2001",
+                "description": "Linear Algebra",
+                "grade": ""
+            }
         ]
     },
     {
         "title": "Stats modules",
-        "modules": [
-
-        ]
+        "modules": []
     },
     {
         "title": "Other modules",
@@ -42,17 +59,32 @@
             {
                 "code": "HSA1000",
                 "description": "Asian Interconnections",
-                "grade": ""
+                "grade": "S"
             },
             {
                 "code": "HSS1000",
                 "description": "Understanding Social Complexity",
-                "grade": ""
+                "grade": "A-"
             },
             {
                 "code": "RVSS1001",
                 "description": "Imagining Wakanda: Cities for work, life, and play",
+                "grade": "S"
+            },
+            {
+                "code": "RVX1000",
+                "description": "Citizen Speak: Persuasion and Polarization in Society",
                 "grade": ""
+            },
+            {
+                "code": "CFG1002",
+                "description": "Career Catalyst",
+                "grade": "CS"
+            },
+            {
+                "code": "CFG1003",
+                "description": "Financial Wellbeing-Introduction",
+                "grade": "CS"
             }
         ]
     }
